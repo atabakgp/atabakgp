@@ -1,4 +1,4 @@
-# Hi, I'm Atabak 👋
+# Hi, I'm Ata 👋
 
 👨‍💻 Frontend developer
 
